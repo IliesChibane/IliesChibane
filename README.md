@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chibane Ilies</h1>
 <h3 align="center">An AI student passionnate about computer science</h3>
-![image.gif](giphy.gif?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilieschibane&label=Profile%20views&color=0e75b6&style=flat" alt="ilieschibane" /> </p>
+<img align="right" alt="Coding" width="300" src="giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,5 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilieschibane&show_icons=true&locale=en&layout=compact" alt="ilieschibane" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilieschibane&show_icons=true&locale=en" alt="ilieschibane" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilieschibane&show_icons=true&locale=en" alt="ilieschibane" /></p>
+
 
